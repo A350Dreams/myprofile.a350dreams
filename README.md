@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  
-  <title>A350Dreams on Instagram</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>A350Dreams</title>
   <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" type="image/png">
   <style>
     body {
