@@ -1,10 +1,10 @@
-the link above redirect you to this website (it is useless)
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>A350Dreams</title>
-  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" type="image/png">
+  <title>A350Dreams on Instagram</title>
+ <link rel="icon" type="image/png" href="favicon.ico">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,6 +18,10 @@ the link above redirect you to this website (it is useless)
       color: white;
       padding: 50px 20px;
       box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
     }
     .btn-instagram {
       background-color: #E1306C;
