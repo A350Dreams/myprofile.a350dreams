@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+the link below redirect you to this webist (it is useless)
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
